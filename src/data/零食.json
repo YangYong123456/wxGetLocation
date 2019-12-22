@@ -1,6 +1,6 @@
 [
-    {"name":"零食1","address":"地址1","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍1"},
-    {"name":"零食2","address":"地址2","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍2"},
-    {"name":"零食3","address":"地址3","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍3"},
-    {"name":"零食4","address":"地址4","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍4"}
+    {"name":"良品铺子","address":"湖大夜市旁边","image":"/static/images/良品铺子.jpg","remark":"价格较贵，但是好吃"},
+    {"name":"三只松鼠","address":"湖大正门对面","image":"/static/images/三只松鼠.jpg","remark":"价格适中"},
+    {"name":"掌心脆","address":"湖大教育超市","image":"/static/images/掌心脆.jpg","remark":"价格便宜"},
+    {"name":"百草味","address":"湖大周边","image":"/static/images/百草味.jpg","remark":"价格适中"}
   ]

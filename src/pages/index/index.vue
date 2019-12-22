@@ -41,19 +41,19 @@ export default {
       grids:[
         {title:"饮品",image:"/static/images/1.png"},
         {title:"主食",image:"/static/images/2.png"},
-        {title:"小吃",image:"/static/images/3.png"},
+        {title:"零食",image:"/static/images/3.png"},
         {title:"外卖",image:"/static/images/4.png"}
       ],
       top:[
-        {name:"店名1",address:"地址1",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍1"},
-        {name:"店名2",address:"地址2",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍2"},
-        {name:"店名3",address:"地址3",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍3"},
-        {name:"店名4",address:"地址4",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍4"}
+        {name:"coco都可",address:"湖北大学正门对面",image:"/static/images/coco都可.jpg",remark:"很好喝"},
+        {name:"N多寿司",address:"湖北大学正门对面",image:"/static/images/N多寿司.jpg",remark:"很好吃，价格适中"},
+        {name:"热干面",address:"湖北大学食堂",image:"/static/images/热干面.jpg",remark:"武汉特产，价格便宜"},
+        {name:"良品铺子",address:"湖大夜市旁边",image:"/static/images/良品铺子.jpg",remark:"价格较贵，但是好吃"}
       ],
       imgUrls: [
-        'https://images.unsplash.com/photo-1551334787-21e6bd3ab135?w=640',
-        'https://images.unsplash.com/photo-1551214012-84f95e060dee?w=640',
-        'https://images.unsplash.com/photo-1551446591-142875a901a1?w=640'
+        '/static/images/大盘鸡.jpg',
+        '/static/images/蛋糕.jpg',
+        '/static/images/西餐.jpg'
       ],
       indicatorDots: false,
       autoplay: false,

@@ -1,6 +1,6 @@
 [
-    {"name":"主食1","address":"地址1","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍1"},
-    {"name":"主食2","address":"地址2","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍2"},
-    {"name":"主食3","address":"地址3","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍3"},
-    {"name":"主食4","address":"地址4","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍4"}
+    {"name":"热干面","address":"湖北大学食堂","image":"/static/images/热干面.jpg","remark":"武汉特产，价格便宜"},
+    {"name":"馒头","address":"湖大三期食堂","image":"/static/images/馒头.jpg","remark":"价格便宜，适合作为早餐"},
+    {"name":"水煮鱼","address":"湖大三期食堂","image":"/static/images/水煮鱼.jpg","remark":"非常热销"},
+    {"name":"自助","address":"湖大三期食堂","image":"/static/images/自助.jpg","remark":"价格适中"}
   ]
